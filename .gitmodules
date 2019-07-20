@@ -1,4 +1,4 @@
 [submodule "images"]
 	path = images
-	url = https://github.coms/islamic-works/images.git
+	url = https://github.com/islamic-works/images.git
 	branch = islamic-web
