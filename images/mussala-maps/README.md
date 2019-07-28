@@ -1,0 +1,1 @@
+Arquivos usados no módulo Mussala principalmente relativo aos marcados nos mapas.
